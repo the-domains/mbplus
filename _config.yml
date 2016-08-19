@@ -1,0 +1,14 @@
+layout_spectrum: 0.8914824437815696
+typography_spectrum: 0.5147188322152942
+color:
+  brandStrength: 0.45705341128632426
+  lightness: 0.6901660007424653
+  saturation: 0.6209240381140262
+  rhythmicContrast: 0.20879185618832707
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: mbPlus
